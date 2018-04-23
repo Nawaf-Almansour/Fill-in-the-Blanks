@@ -63,7 +63,7 @@ easy_text = '''
 Mars is the ___1___ planet from the Sun and the second-smallest
  planet in the ___2___ System after Mercury. In English, Mars
  carries a name of the ___3___ god of war, and is often referred
- to as the ___2___ Planet because the reddish iron oxide prevalent
+ to as the ___4___ Planet because the reddish iron oxide prevalent
  on its surface gives it a reddish appearance that is distinctive
  among the astronomical bodies visible to the naked eye.
 
